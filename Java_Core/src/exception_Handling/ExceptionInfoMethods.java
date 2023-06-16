@@ -27,7 +27,7 @@ class Demo{
 			catch(ArithmeticException e) {
 				System.out.println(e.getMessage());
 				System.out.println(e.toString());
-				e.printStackTrace();
+				//e.printStackTrace();
 			}
 			
 			
