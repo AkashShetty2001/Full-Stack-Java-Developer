@@ -16,7 +16,7 @@ public class SumOfNumbers {
 		if(n<=0)
 			return -1;
 		else {
-		int s=(n+1)*n/2;
+		int s=((n+1)*n)/2;
 		return s;
 		}
 	}
