@@ -33,7 +33,7 @@ public class StringClassConstructors {
 		 
 		 byte[] b = {65,66,67,68};
 		 String s5= new String(b);
-		 System.out.println(s5);//"ABCD"*/
+		 System.out.println(s5);//"ABCD"
 		
 		/*String s="sachin";
 		String s1=s.toString();
