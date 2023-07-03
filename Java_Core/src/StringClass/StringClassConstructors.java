@@ -14,7 +14,7 @@ package StringClass;
  */
 public class StringClassConstructors {
 	public static void main(String[] args) {
-	/*	String s ="Sachin";//Object created..
+		String s ="Sachin";//Object created..
 		System.out.println(s);
 		
 		String s1 = new String("Sachin");
@@ -35,9 +35,9 @@ public class StringClassConstructors {
 		 String s5= new String(b);
 		 System.out.println(s5);//"ABCD"*/
 		
-		String s="sachin";
+		/*String s="sachin";
 		String s1=s.toString();
-		System.out.println(s1==s);
+		System.out.println(s1==s);*/
 		
 	}
 
